@@ -1,0 +1,31 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "get-image-pixels": "^1.0.1",
+    "get-pixels": "^3.3.0",
+    "jimp": "^0.2.28",
+    "nano": "^6.4.2",
+    "node-cron": "^1.2.1",
+    "node-uuid": "^1.4.8",
+    "nw": "^0.27.2",
+    "screenshot-stream": "^4.2.0",
+    "stream-to-buffer": "^0.1.0",
+    "url-to-image": "^1.0.0",
+    "url-to-screenshot": "^2.0.1",
+    "webpage": "^0.3.0",
+    "webshot": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
